@@ -11,7 +11,7 @@
     "apollo-server": "2.16.0",
     "graphql": "14.6.0",
     "reflect-metadata": "0.1.13",
-    "type-graphql": "0.17.6"
+    "type-graphql": "1.0.0"
   },
   "devDependencies": {
     "@prisma/cli": "2.7.0-dev.31",
