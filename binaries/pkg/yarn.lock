@@ -35,15 +35,15 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@prisma/cli@2.8.0-dev.6":
-  version "2.8.0-dev.6"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.8.0-dev.6.tgz#cb58b6538f05874368fcabf194e00655ed6102b6"
-  integrity sha512-zdsuuMzgnWWh/Y9csl0j5gseI37zUMTcYPPXB/bsH1SAQtg1+z7cpkI9gojKgVlffb+9cdxPd+DSuZP48xD0DQ==
+"@prisma/cli@2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.7.1.tgz#98f2cb434bb931341e6c6292c7bab601e5f842f8"
+  integrity sha512-0uA+gWkNQ35DveVHDPltiTCTr4wcXtEhnPs463IEM+Xn8dTv9x0gtZiYHSuQM3t7uwlOxj1rurBsqSbiljynfQ==
 
-"@prisma/client@2.8.0-dev.6":
-  version "2.8.0-dev.6"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.8.0-dev.6.tgz#f2d22dca3450b0b5c496bf96c19db71db4a0b53f"
-  integrity sha512-9/K625mx4PUR/1dmKDUOEg4XyPaiZVDAoIyNtVk369pdDkD7s5ag193afLeFtSggoXVIOSRli1njvmt82OlwJA==
+"@prisma/client@2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.7.1.tgz#0a37ddff7fe80ae3a86dfa620c1141c8607be6c2"
+  integrity sha512-IEWDCuvIaQTira8/jAyf+uY+AuPPUFDIXMSN4zEA/gvoJv2woq7RmkaubS+NQVgDbbyOR6F3UcXLiFTYQDzZkQ==
   dependencies:
     pkg-up "^3.1.0"
 
